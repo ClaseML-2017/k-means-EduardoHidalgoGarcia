@@ -1,0 +1,1 @@
+Tarea de K-medias: Compara el accuracy rate de la prediccion de un bosque de decisión cuando se clusteriza usando K-medias versus cuando no se clusteriza previamente
